@@ -1,4 +1,6 @@
 
+---
+
 This is a modified version of **fabriciobastian’s mod** — all credit goes to them.
 👉 Original source: [adept-anyball/ploopy-adept-small-btu](https://github.com/adept-anyball/ploopy-adept-small-btu)
 
@@ -51,3 +53,4 @@ You **must use the BTU adapter (support)** included in this repository — it ha
 If you have any questions, join the **Ploopy Discord** and look for me there:
 🔗 [https://discord.gg/uPGgdVc7](https://discord.gg/uPGgdVc7)
 
+---

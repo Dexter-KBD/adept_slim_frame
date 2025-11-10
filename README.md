@@ -1,3 +1,5 @@
+<p style="font-size:40px; font-weight:bold;">Adept_slim_frame</p>
+
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1699.JPEG?raw=true" width="600">
 
 ---

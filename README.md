@@ -26,7 +26,7 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * To minimize thickness, the **sensor area is exposed** at the bottom.
 
   * If you don’t like this, you can modify the model yourself or simply cover it with tape.
-  * 
+    
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1695.JPEG?raw=true" width="600">
 
 **Frame**

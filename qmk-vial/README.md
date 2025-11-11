@@ -10,6 +10,9 @@
 Several people have asked about how I operate my Adept, so I’ve uploaded a short demonstration video.
 For clarity, I exaggerated my hand movements during recording to make it easier to understand.
 
+You can watch the video at the Reddit link below.
+https://www.reddit.com/r/ploopy/s/cs79yKEw12
+
 ---
 <p align="left">
   <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1691.png" width="600">

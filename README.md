@@ -20,7 +20,7 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * Must be printed in **MJF Nylon PA12**.
 * **FDM printing is *not recommended*** — the button structure was modeled specifically for the stiffness of nylon.
 * Using other materials may result in poor button feel or tolerance issues.
-
+<br><br>
 
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1710.JPEG?raw=true" width="600">
 
@@ -31,7 +31,7 @@ This is a modified version of **fabriciobastian’s mod** — all credit goes to
 * To minimize thickness, the **sensor area is exposed** at the bottom.
 
   * If you don’t like this, you can modify the model yourself or simply cover it with tape.
-    
+    <br><br>
 <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1695.JPEG?raw=true" width="600">
 
 **Frame**

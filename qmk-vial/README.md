@@ -1,6 +1,6 @@
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1692.png" width="600">
 </p>
 

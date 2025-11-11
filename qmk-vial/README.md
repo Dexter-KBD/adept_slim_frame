@@ -1,5 +1,6 @@
 
 ---
+<img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1692.JPEG?raw=true" width="600">
 
 ### Short Demonstration of My Adept Setup
 

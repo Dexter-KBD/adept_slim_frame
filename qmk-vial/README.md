@@ -11,7 +11,9 @@ Several people have asked about how I operate my Adept, so I’ve uploaded a sho
 For clarity, I exaggerated my hand movements during recording to make it easier to understand.
 
 ---
-
+<p align="left">
+  <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1691.png" width="600">
+</p>
 #### 1. Top Right Button (4th Button)
 
 My ring finger naturally rests on this button.
@@ -26,6 +28,10 @@ Thus, you can **scroll and access layer functions simultaneously**.
 
 On my setup, I mapped **End** (thumb, bottom-left) and **Home** (middle finger) to quickly move to the top or bottom of a page while dragging.
 Other keys are mapped to features like **DPI change**, **screenshot**, and **Alt+F4**, but these are just personal preferences — feel free to customize them.
+
+You can add various functions using **Tap Dance**.
+Although it wasn’t shown in the video, in Chrome, a **double tap** opens a new tab, and a **double tap and hold** reopens the last closed tab.
+
 
 ---
 

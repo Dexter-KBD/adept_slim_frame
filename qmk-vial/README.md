@@ -43,7 +43,9 @@ This is by far the most convenient volume control method I’ve ever used.
 On Layer 2, I’ve also mapped several **macros** I use frequently.
 
 ---
-
+<p align="left">
+  <img src="https://github.com/Dexter-KBD/adept_slim_frame/blob/main/Image/IMG_1690.png" width="600">
+</p>
 #### 3. Top Middle Button (3rd Button)
 
 My middle finger always rests on this button, which is assigned to **middle-click**.
@@ -54,6 +56,8 @@ In **Fusion 360**, holding the middle button pans the canvas.
 Since middle-click hold isn’t needed in daily browsing, I combined it with **tab-switching shortcuts** in Chrome.
 However, if you use an application that relies on middle-click hold, you may experience conflicts.
 This button does **not** have any layer function.
+
+Using Tap Dance, a double tap closes the current tab in Chrome.
 
 ---
 

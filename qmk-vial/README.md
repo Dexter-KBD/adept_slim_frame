@@ -11,6 +11,7 @@ Several people have asked about how I operate my Adept, so I’ve uploaded a sho
 For clarity, I exaggerated my hand movements during recording to make it easier to understand.
 
 You can watch the video at the Reddit link below.
+
 https://www.reddit.com/r/ploopy/s/cs79yKEw12
 
 ---
